@@ -80,11 +80,11 @@ The analysis is presented through interactive Tableau dashboards:
 ## Repository Structure
 retail-sales-shipping-analysis/
 │
-├── assets/           # SQL KPI views screenshots
-├── python/           # Python code
-├── report/           # Project report
-├── sql/              # SQL queries and KPI views Dashboard screenshots
-├── tableau/          # Tableau dashboards or links
+├── assets/           
+├── python/           
+├── report/           
+├── sql/             
+├── tableau/         
 └── README.md
 
 ---
