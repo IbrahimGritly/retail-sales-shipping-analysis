@@ -78,13 +78,21 @@ The analysis is presented through interactive Tableau dashboards:
 ---
 
 ## Repository Structure
-
+retail-sales-shipping-analysis/
+│
+├── assets/           # SQL KPI views screenshots
+├── python/           # Python code
+├── report/           # Project report
+├── sql/              # SQL queries and KPI views Dashboard screenshots
+├── tableau/          # Tableau dashboards or links
+└── README.md
 
 ---
 
 ## Deliverables
+- Python code of the data cleaning process → [python/](python/)
 - SQL-based KPI views and analysis queries → [sql/](sql/)
-- Two interactive Tableau dashboards
-- Written project report
-- Documented insights connecting business and operational performance
+- Three interactive Tableau dashboards → [tableau/](tableau/)
+- Written project report → [report/](report/)
+- Documented insights connecting business and operational performance → [assets/](assets/)
 
