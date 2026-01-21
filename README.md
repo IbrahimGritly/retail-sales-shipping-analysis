@@ -93,13 +93,13 @@ retail-sales-shipping-analysis/
 ## Dashboard Preview
 
 ### Business Performance Overview
-![Business Performance Dashboard](tableau/Dashboard 1.png)
+![Business Performance Dashboard](tableau/supplydash1.png)
 
 ### Delivery & Shipping Performance
-![Delivery & Shipping Dashboard](tableau/Dashboard 2.png)
+![Delivery & Shipping Dashboard](tableau/supplydash2.png)
 
 ## Customer & Product Performance Analysis
-![Customer & Product Dashboard](tableau/Dashboard 3.png)
+![Customer & Product Dashboard](tableau/supplydash3.png)
 
 ## Deliverables
 - Python code of the data cleaning process → [python/](python/)
