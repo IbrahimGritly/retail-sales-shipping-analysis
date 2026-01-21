@@ -1,4 +1,5 @@
 # Retail Sales & Delivery Performance Analysis
+SQL & Tableau project analyzing sales, profitability, and shipping efficiency across 180K+ orders.
 
 ## Overview
 This project analyzes retail sales, profitability, customer behavior, and delivery performance using SQL and Tableau.  
@@ -88,6 +89,14 @@ retail-sales-shipping-analysis/
 └── README.md
 
 ---
+
+## Dashboard Preview
+
+### Business Performance Overview
+![Business Performance Dashboard](assets/business_overview.png)
+
+### Delivery & Shipping Performance
+![Delivery & Shipping Dashboard](assets/Dashboard 2.png)
 
 ## Deliverables
 - Python code of the data cleaning process → [python/](python/)
