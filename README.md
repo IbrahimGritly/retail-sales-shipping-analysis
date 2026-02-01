@@ -136,3 +136,9 @@ retail-sales-shipping-analysis/
 - Written project report → [report/](report/)
 - Documented insights connecting business and operational performance → [assets/](assets/)
 
+---
+
+## Author
+
+**Ibrahim M. Hassan**
+Data Analytics Portfolio Project
