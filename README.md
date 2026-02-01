@@ -79,14 +79,42 @@ The analysis is presented through interactive Tableau dashboards:
 ---
 
 ## Repository Structure
+```
 retail-sales-shipping-analysis/
 │
-├── assets/           
-├── python/           
-├── report/           
-├── sql/             
-├── tableau/         
+├── assets/
+│   ├── SQL view 1.png
+│   ├── Supply view 10.png
+│   ├── Supply view 11.png
+│   ├── Supply view 12.png
+│   ├── Supply view 13.png
+│   ├── Supply view 14.png
+│   ├── Supply view 2.png
+│   ├── Supply view 3.png
+│   ├── Supply view 4.png
+│   ├── Supply view 5.png
+│   ├── Supply view 6.png
+│   ├── Supply view 7.png
+│   ├── Supply view 8.png
+│   └── Supply view 9.png
+│
+├── python/
+│   ├── Supply chain project.ipynb
+│
+├── report/
+│   └── Supply chain report.docx
+│
+├── sql/
+│   └── MySQL Supply Chain Cleaning.sql
+│
+├── tableau/
+│   ├── Supply chain visuals.twb
+│   ├── supplydash1.png
+│   ├── supplydash2.png
+│   └── supplydash3.png
+│
 └── README.md
+```
 
 ---
 
